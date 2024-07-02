@@ -1,12 +1,195 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\alami\\WebApiAutores\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4327281E-B5B4-4143-8497-072FD89928BC}|WebApiAutores\\WebApiAutores.csproj|c:\\users\\alami\\webapiautores\\webapiautores\\controllers\\seleccioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4327281E-B5B4-4143-8497-072FD89928BC}|WebApiAutores\\WebApiAutores.csproj|solutionrelative:webapiautores\\controllers\\seleccioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4327281E-B5B4-4143-8497-072FD89928BC}|WebApiAutores\\WebApiAutores.csproj|c:\\users\\alami\\webapiautores\\webapiautores\\controllers\\mundialescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4327281E-B5B4-4143-8497-072FD89928BC}|WebApiAutores\\WebApiAutores.csproj|solutionrelative:webapiautores\\controllers\\mundialescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4327281E-B5B4-4143-8497-072FD89928BC}|WebApiAutores\\WebApiAutores.csproj|c:\\users\\alami\\webapiautores\\webapiautores\\dto\\mundialdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4327281E-B5B4-4143-8497-072FD89928BC}|WebApiAutores\\WebApiAutores.csproj|solutionrelative:webapiautores\\dto\\mundialdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4327281E-B5B4-4143-8497-072FD89928BC}|WebApiAutores\\WebApiAutores.csproj|c:\\users\\alami\\webapiautores\\webapiautores\\dto\\selecciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4327281E-B5B4-4143-8497-072FD89928BC}|WebApiAutores\\WebApiAutores.csproj|solutionrelative:webapiautores\\dto\\selecciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4327281E-B5B4-4143-8497-072FD89928BC}|WebApiAutores\\WebApiAutores.csproj|c:\\users\\alami\\webapiautores\\webapiautores\\dto\\libreriacreaciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4327281E-B5B4-4143-8497-072FD89928BC}|WebApiAutores\\WebApiAutores.csproj|solutionrelative:webapiautores\\dto\\libreriacreaciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4327281E-B5B4-4143-8497-072FD89928BC}|WebApiAutores\\WebApiAutores.csproj|c:\\users\\alami\\webapiautores\\webapiautores\\controllers\\autorescontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4327281E-B5B4-4143-8497-072FD89928BC}|WebApiAutores\\WebApiAutores.csproj|solutionrelative:webapiautores\\controllers\\autorescontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4327281E-B5B4-4143-8497-072FD89928BC}|WebApiAutores\\WebApiAutores.csproj|c:\\users\\alami\\webapiautores\\webapiautores\\migrations\\20240418180105_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4327281E-B5B4-4143-8497-072FD89928BC}|WebApiAutores\\WebApiAutores.csproj|solutionrelative:webapiautores\\migrations\\20240418180105_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4327281E-B5B4-4143-8497-072FD89928BC}|WebApiAutores\\WebApiAutores.csproj|c:\\users\\alami\\webapiautores\\webapiautores\\entidades\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4327281E-B5B4-4143-8497-072FD89928BC}|WebApiAutores\\WebApiAutores.csproj|solutionrelative:webapiautores\\entidades\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4327281E-B5B4-4143-8497-072FD89928BC}|WebApiAutores\\WebApiAutores.csproj|c:\\users\\alami\\webapiautores\\webapiautores\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4327281E-B5B4-4143-8497-072FD89928BC}|WebApiAutores\\WebApiAutores.csproj|solutionrelative:webapiautores\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4327281E-B5B4-4143-8497-072FD89928BC}|WebApiAutores\\WebApiAutores.csproj|c:\\users\\alami\\webapiautores\\webapiautores\\utilidades\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4327281E-B5B4-4143-8497-072FD89928BC}|WebApiAutores\\WebApiAutores.csproj|solutionrelative:webapiautores\\utilidades\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1246,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MundialesController.cs",
+              "DocumentMoniker": "C:\\Users\\alami\\WebApiAutores\\WebApiAutores\\Controllers\\MundialesController.cs",
+              "RelativeDocumentMoniker": "WebApiAutores\\Controllers\\MundialesController.cs",
+              "ToolTip": "C:\\Users\\alami\\WebApiAutores\\WebApiAutores\\Controllers\\MundialesController.cs",
+              "RelativeToolTip": "WebApiAutores\\Controllers\\MundialesController.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAQwAoAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T06:20:22.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SeleccionController.cs",
+              "DocumentMoniker": "C:\\Users\\alami\\WebApiAutores\\WebApiAutores\\Controllers\\SeleccionController.cs",
+              "RelativeDocumentMoniker": "WebApiAutores\\Controllers\\SeleccionController.cs",
+              "ToolTip": "C:\\Users\\alami\\WebApiAutores\\WebApiAutores\\Controllers\\SeleccionController.cs",
+              "RelativeToolTip": "WebApiAutores\\Controllers\\SeleccionController.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAQwA8AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T23:43:05.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MundialDto.cs",
+              "DocumentMoniker": "C:\\Users\\alami\\WebApiAutores\\WebApiAutores\\Dto\\MundialDto.cs",
+              "RelativeDocumentMoniker": "WebApiAutores\\Dto\\MundialDto.cs",
+              "ToolTip": "C:\\Users\\alami\\WebApiAutores\\WebApiAutores\\Dto\\MundialDto.cs",
+              "RelativeToolTip": "WebApiAutores\\Dto\\MundialDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T23:39:30.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SeleccionDto.cs",
+              "DocumentMoniker": "C:\\Users\\alami\\WebApiAutores\\WebApiAutores\\Dto\\SeleccionDto.cs",
+              "RelativeDocumentMoniker": "WebApiAutores\\Dto\\SeleccionDto.cs",
+              "ToolTip": "C:\\Users\\alami\\WebApiAutores\\WebApiAutores\\Dto\\SeleccionDto.cs",
+              "RelativeToolTip": "WebApiAutores\\Dto\\SeleccionDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T23:36:55.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AutoresControllers.cs",
+              "DocumentMoniker": "C:\\Users\\alami\\WebApiAutores\\WebApiAutores\\Controllers\\AutoresControllers.cs",
+              "RelativeDocumentMoniker": "WebApiAutores\\Controllers\\AutoresControllers.cs",
+              "ToolTip": "C:\\Users\\alami\\WebApiAutores\\WebApiAutores\\Controllers\\AutoresControllers.cs",
+              "RelativeToolTip": "WebApiAutores\\Controllers\\AutoresControllers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T23:53:09.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LibreriaCreacionDTO.cs",
+              "DocumentMoniker": "C:\\Users\\alami\\WebApiAutores\\WebApiAutores\\Dto\\LibreriaCreacionDTO.cs",
+              "RelativeDocumentMoniker": "WebApiAutores\\Dto\\LibreriaCreacionDTO.cs",
+              "ToolTip": "C:\\Users\\alami\\WebApiAutores\\WebApiAutores\\Dto\\LibreriaCreacionDTO.cs",
+              "RelativeToolTip": "WebApiAutores\\Dto\\LibreriaCreacionDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T17:53:18.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240418180105_Inicial.cs",
+              "DocumentMoniker": "C:\\Users\\alami\\WebApiAutores\\WebApiAutores\\Migrations\\20240418180105_Inicial.cs",
+              "RelativeDocumentMoniker": "WebApiAutores\\Migrations\\20240418180105_Inicial.cs",
+              "ToolTip": "C:\\Users\\alami\\WebApiAutores\\WebApiAutores\\Migrations\\20240418180105_Inicial.cs",
+              "RelativeToolTip": "WebApiAutores\\Migrations\\20240418180105_Inicial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T17:59:27.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\alami\\WebApiAutores\\WebApiAutores\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WebApiAutores\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\alami\\WebApiAutores\\WebApiAutores\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WebApiAutores\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T17:52:08.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\alami\\WebApiAutores\\WebApiAutores\\Utilidades\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "WebApiAutores\\Utilidades\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\alami\\WebApiAutores\\WebApiAutores\\Utilidades\\AutoMapperProfile.cs",
+              "RelativeToolTip": "WebApiAutores\\Utilidades\\AutoMapperProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T23:09:41.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "autor.cs",
+              "DocumentMoniker": "C:\\Users\\alami\\WebApiAutores\\WebApiAutores\\Entidades\\autor.cs",
+              "RelativeDocumentMoniker": "WebApiAutores\\Entidades\\autor.cs",
+              "ToolTip": "C:\\Users\\alami\\WebApiAutores\\WebApiAutores\\Entidades\\autor.cs",
+              "RelativeToolTip": "WebApiAutores\\Entidades\\autor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T06:47:27.825Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 40,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
