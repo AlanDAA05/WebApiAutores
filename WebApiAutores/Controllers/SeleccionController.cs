@@ -1,8 +1,10 @@
 ﻿using AutoMapper;
+using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Identity.Client;
 using System.Threading;
 using WebApiAutores.Dto;
+using WebApiAutores.Entidades;
 
 namespace WebApiAutores.Controllers
 {
@@ -12,11 +14,11 @@ namespace WebApiAutores.Controllers
     {
         private readonly IMapper _mapper;
 
-        List<SeleccionDto> Concacaf = new List<SeleccionDto>();
+        static List<SeleccionDto> Concacaf = new List<SeleccionDto>();
         static List<MundialDto> Mundiales = new List<MundialDto>();
 
 
-        public SeleccionController()
+        static SeleccionController()
         {
 
             MundialDto Mu = new MundialDto();
@@ -98,6 +100,32 @@ namespace WebApiAutores.Controllers
 
             return Mundiales;
         }
+
+        [HttpPost ("SeleccionesCreate")]
+
+        public List<SeleccionDto> Create (SeleccionDto nuevaSeleccion)
+        {
+             var existeSeleccion = Concacaf.Any(x => x.Nombre.Equals(nuevaSeleccion.Nombre, StringComparison.OrdinalIgnoreCase));
+
+            if ( existeSeleccion )
+            {
+                throw new Exception($"Ya Existe {nuevaSeleccion.Nombre}");
+            }
+
+            if (nuevaSeleccion == null || string.IsNullOrEmpty(nuevaSeleccion.Nombre) ||
+                nuevaSeleccion.IdSeleccion == 0)
+            {
+                 throw new Exception ( " Faltan Campos Nombre o ID ");
+            }
+             
+             Concacaf.Add(nuevaSeleccion);
+
+            return Concacaf;
+          
+
+        }
+
+
     }
 
     

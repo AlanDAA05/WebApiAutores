@@ -24,14 +24,14 @@ namespace WebApiAutores.Controllers
         [HttpPost]
         public async Task<ActionResult> Post(Autor autor)
         {
-            var ExisteAutor =await context.Autores.AnyAsync(x => x.Nombre == autor.Nombre);
-            if (ExisteAutor)
-            {
-                return (BadRequest($" Ya existe el autor con el nombre {autor.Nombre}"));
-            }
+                var ExisteAutor =await context.Autores.AnyAsync(x => x.Nombre == autor.Nombre);
+                if (ExisteAutor)
+                {
+                    return (BadRequest($" Ya existe el autor con el nombre {autor.Nombre}"));
+                }
 
 
-            context.Add(autor);
+            context.Add(autor);     
             await context.SaveChangesAsync();
             return Ok();
         }
